@@ -1,4 +1,4 @@
-# stayVista-starter-template
+# HotelHeaven-starter-template
 
 ### Important Links:
 
